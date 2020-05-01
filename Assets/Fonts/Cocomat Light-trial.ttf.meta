@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8f85c6f1129e5594494ea08303ad99ae
+timeCreated: 1499901047
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 160
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: COCOMAT
+  fontNames:
+  - COCOMAT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 652c24753f99f2247bf198fb5a91048d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
